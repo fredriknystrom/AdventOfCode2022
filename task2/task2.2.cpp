@@ -100,5 +100,3 @@ int main(){
     cout << evalPoints(fileName);
     return 0;
 }
-
-
